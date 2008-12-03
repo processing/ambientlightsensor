@@ -60,8 +60,8 @@
 	
 <!-- #### (14) where can the source code be found? edit value. #### -->
 	<property name="source:host"  value="google code" />
-	<property name="source:url"  value="http://code.google.com/p/yourProject" />
-	<property name="source:repository"  value="http://code.google.com/p/yourProject/source/browse/" />
+	<property name="source:url"  value="http://code.google.com/p/ambientlightsensor" />
+	<property name="source:repository"  value="http://code.google.com/p/ambientlightsensor/source/browse/" />
 
 
 
