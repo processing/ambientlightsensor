@@ -1,4 +1,4 @@
-This is a library by Martin Rädlinger for the programming environment Processing.
+This is a library by [Martin Rädlinger](https://www.formatlos.de/) for the programming environment Processing.
 
 It is based on Amit Singhs experiments with the »Ambient Light Sensor« and provides an interface to the sensor which is built-in in every MacBookPro. Originally the sensor is intended for adjusting the keyboards and displays brightness depending on the ambient lighting conditions.
 
